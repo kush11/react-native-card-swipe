@@ -1,4 +1,4 @@
-# react-native-card-swip
+# react-native-card-swipe
 
 [![NPM version](https://badge.fury.io/js/react-native-backgroud-shapes.svg)](https://npmjs.org/package/react-native-backgroud-shapes) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/kevoj/react-native-backgroud-shapes/master/LICENSE)
 
@@ -15,13 +15,13 @@
 **Yarn**
 
 ```bash
-yarn add react-native-card-swip
+yarn add react-native-card-swipe
 ```
 
 **Npm**
 
 ```bash
-npm i  react-native-card-swip
+npm i  react-native-card-swipe
 ```
 
 ### Usage
@@ -30,7 +30,7 @@ npm i  react-native-card-swip
 import React, {PureComponent} from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 import {Card, Button} from 'react-native-elements';
-import CardSwiper from 'react-native-card-swip';
+import CardSwiper from 'react-native-card-swipe';
 
 class App extends PureComponent {
   constructor(props) {
@@ -111,4 +111,4 @@ export default App;
 
 ## License
 
-MIT © [Kush Kumar](https://github.com/kush11/react-native-card-swip)
+MIT © [Kush Kumar](https://github.com/kush11/react-native-card-swipe)
