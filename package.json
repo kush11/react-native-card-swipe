@@ -1,0 +1,27 @@
+{
+  "name": "react-native-card-swip",
+  "version": "0.1.0",
+  "description": " react-native-card-swip is component which will list all all the card on another like deck and swip left and right ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kush11"
+  },
+  "keywords": [
+    " react-native-card-swip",
+    "react-native-carddeck-swiper",
+    "react native carddeck",
+    "react-native-swip",
+    "react native swip",
+    "react-native-swip-card",
+    "react-native-tinder-swip",
+    "react-native-left-swip",
+    "react-native-right-swip",
+    "react-native-card"
+  ],
+  "author": "Kush Kumar",
+  "license": "ISC"
+}
